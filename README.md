@@ -1,6 +1,6 @@
-# tweetScript
-# A Python twitter script
-# Fred Fourie 
+# Tweet.py
+ A Python twitter script
+ Fred Fourie 
 
 Twitter is a great platform, for news, for gossip, and loads of information. According to Twitter, there are 271 million people using twitter per month and the daily total of Tweets reach up to 500 million. 500 million a day!! This is likely only to increase.
 So after my birth into the twitterverse I got interested in harnessing all that data.
